@@ -2,7 +2,7 @@
 Chat-RealTime
 </h1>
 <p align="center">
-a project real time chat, developed with NodeJs  and ReactJS
+a real time chat project, developed with NodeJs  and ReactJS
 </p>
 
 # ChatBox
